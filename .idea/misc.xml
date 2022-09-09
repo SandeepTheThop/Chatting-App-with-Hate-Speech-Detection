@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Android Shit/Chatting-App-with-HateSpeech-Detection/app/src/main/res/layout/activity_sign_in.xml" value="0.1859375" />
+        <entry key="..\:/Android Shit/Chatting-App-with-HateSpeech-Detection/app/src/main/res/drawable/background_input.xml" value="0.119" />
+        <entry key="..\:/Android Shit/Chatting-App-with-HateSpeech-Detection/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Android Shit/Chatting-App-with-HateSpeech-Detection/app/src/main/res/layout/activity_sign_in.xml" value="0.25" />
         <entry key="..\:/Android Shit/Chatting-App-with-HateSpeech-Detection/app/src/main/res/layout/activity_sign_up.xml" value="0.1859375" />
       </map>
     </option>
