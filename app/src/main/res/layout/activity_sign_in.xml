@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:clipToPadding="false"
     android:overScrollMode="never"
     android:padding="@dimen/_24sdp"
@@ -76,9 +76,10 @@
             android:textColor="@color/white"
             android:textSize="@dimen/_13ssp"
             android:textStyle="bold"
-            app:cornerRadius="@dimen/_8sdp"
+            android:backgroundTint="@color/primary_text"
             android:layout_height="@dimen/_50ssp"
-            app:backgroundTint="@color/primary_dark"/>
+            app:cornerRadius="@dimen/_16sdp"
+           />
         <TextView
             android:id="@+id/textCreateNewAccount"
             android:layout_width="wrap_content"
