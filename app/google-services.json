@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "87901543863",
+    "project_id": "chat-app-with-hate-detection",
+    "storage_bucket": "chat-app-with-hate-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87901543863:android:00025634d785815ff9dc32",
+        "android_client_info": {
+          "package_name": "com.example.nohate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87901543863-vssa0evo2h1u9it6h1lhq0r0froaisef.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QX2nG07rmmhzBJRM9RO8pFBpoFNXhRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87901543863-vssa0evo2h1u9it6h1lhq0r0froaisef.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
